@@ -10,4 +10,4 @@ cd murphyypanelbulucu
 
 # KULLANIMI
 python3 murphyypanel.py
-websiteyi yapıştırın domaini değil direk url yi yapıştırın 
+
