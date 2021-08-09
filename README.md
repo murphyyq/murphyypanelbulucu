@@ -1,13 +1,13 @@
 # murphyy panel bulucu
 python admin panel bulma aracı
 
-#KURULUMU
+# KURULUMU
 git clone https://github.com/Rmurp3hyyX/murphyypanelbulucu.git
 cd murphyypanelbulucu
 
 
 
 
-#KULLANIMI
+# KULLANIMI
 python3 murphyypanel.py
 websiteyi yapıştırın domaini değil direk url yi yapıştırın 
